@@ -35,7 +35,8 @@ namespace _4._2
 
             double totall = Sum(massiv, 1);
 
-            
+            // Правило этикета
+            Console.WriteLine($"При встречи необходимо здороваться");
             // Вывод текущего времени
             Console.WriteLine(DateTime.Now);
             // Вывод результата
