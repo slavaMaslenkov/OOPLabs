@@ -35,8 +35,7 @@ namespace _4._2
 
             double totall = Sum(massiv, 1);
 
-            // Вывод приветсвия
-            Console.WriteLine($"Привет всем!");
+            
             // Вывод текущего времени
             Console.WriteLine(DateTime.Now);
             // Вывод результата
