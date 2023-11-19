@@ -37,6 +37,8 @@ namespace _4._2
 
             // Вывод приветсвия
             Console.WriteLine($"Привет всем!");
+            // Вывод текущего времени
+            Console.WriteLine(DateTime.Now);
             // Вывод результата
             Console.WriteLine($"Сумма равна: {totall}");
         }
