@@ -35,6 +35,8 @@ namespace _4._2
 
             double totall = Sum(massiv, 1);
 
+            // Вывод приветсвия
+            Console.WriteLine($"Привет всем!");
             // Вывод результата
             Console.WriteLine($"Сумма равна: {totall}");
         }
